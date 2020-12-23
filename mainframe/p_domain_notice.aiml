@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+<category>
+<pattern>placement records</pattern>
+<template>check from the below link:
+https://www.kiet.edu/placement-records</template>
+</category>
+
+<category>
+      <pattern>SCHOLARSHIP</pattern>
+    <template> Notice for Scholership, Freeship, E.B.C. and State Minority of academic session 2017-18 is given in the following link.
+<system>https://www.kiet.edu/uploads/department/scholarship/2020-21/Fee%20Details%20for
+%20scholarship.pdf </system>
+ </template>
+    </category>
+ 
+<category>
+      <pattern>NOTICE REGARDING INSTITUTE</pattern>
+    <template> You can find the notice regarding Institute from the link: https://www.kiet.edu/institute-notices
+</template>
+    </category> 
+
+<category>
+      <pattern>NOTICE REGARDING AICTE </pattern>
+    <template>You can read the full notice from the given link. https://www.kiet.edu/aicte
+
+</template>
+    </category>
+
+<category>
+      <pattern>NOTICE REGRADING AKTU</pattern>
+    <template>You can read the full notice from the given link. 
+ https://www.kiet.edu/aktu
+</template>
+    </category>
+
+ <category>
+      <pattern>PLACEMENTS NEWS AND ACTIVITIES</pattern>
+    <template> Read the full notice from the given link.
+https://www.kiet.edu/placement-news-and-activities
+</template>
+</category>    
+
+</aiml>

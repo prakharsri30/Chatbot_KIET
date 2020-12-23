@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+<pattern> What will be the sequence of documents arrangements? </pattern>
+<template> College verified registration paper ,  proof of ITR , affidavit of students and parents , Aadhaar card photo state, ID card photostate, 10th and 12th class marksheet photocopy </template>
+</category>
+
+<category>
+<pattern> courses in the college  </pattern>
+<template> BTech , MTech , BPharma , MBA , MCA , MPharma </template>
+</category>
+
+<category>
+<pattern>  What are the placement record of college of last years?</pattern>
+<template>
+<system>https://www.kiet.edu/placement-records </system> </template>
+</category>
+
+<category>
+<pattern>  Academic calendar</pattern>
+<template>  https://www.kiet.edu/academic-calendar  
+ </template>
+</category>
+
+<category>
+<pattern> E-learning portal of the college</pattern>
+<template> 
+Moodle :-  <system>http://moodle.kiet.edu/moodle/ </system> 
+LMS :- <system>http://lms.kiet.edu/moodle/ </system> 
+ </template>
+</category>
+
+<category>
+<pattern> faculty of every department </pattern>
+<template> <system> https://www.kiet.edu/home/faculty_of_eminence 
+</system> 
+</template>
+</category>
+
+<category>
+<pattern>Can I get direct admission in Kiet</pattern>
+<template>A student can avail Direct Admission in KIET Ghaziabad under management quota.</template>
+</category>
+
+
+</aiml>

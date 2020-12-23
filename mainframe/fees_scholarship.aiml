@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+<pattern> What's the fees structure of Btech?
+ </pattern>
+<template> <system> https://www.kiet.edu/fee-structure-for-new-students </system>
+ </template>
+</category>
+
+<category>
+<pattern>  Fees of Btech</pattern>
+<template> <srai> What's the fees structure of Btech?
+ </srai> </template>
+</category>
+
+<category>
+<pattern> What's the fees structure of Mtech? </pattern>
+<template> <system>https://www.kiet.edu/fee-structure-for-new-students </system>
+ </template>
+</category>
+
+<category>
+<pattern> fees of Mtech </pattern>
+<template> <srai>What's the fees structure of M Tech? </srai> </template>
+</category>
+
+<category>
+<pattern> What's the fees structure of BPharma? </pattern>
+<template> <system> https://www.kiet.edu/fee-structure-for-new-students
+</system>
+ </template>
+</category>
+
+<category>
+<pattern> Fees of BPharma </pattern>
+<template>  <srai> What's the fees structure of BPharma? </srai></template>
+</category>
+
+<category>
+<pattern> What's the fees structure of MCA? </pattern>
+<template> <system>  https://www.kiet.edu/fee-structure-for-new-students </system> </template>
+</category>
+
+<category>
+<pattern> fees of MCA </pattern>
+<template>  <srai> What's the fees structure of MCA? </srai></template>
+</category>
+
+<category>
+<pattern>- Can we pay fees at KIET in installments for a BTech ?  </pattern>
+<template>
+You should approach the concerned authority of your college as each college and university have their own rules and regulation. Therefore, they could only be able to tell that whether you can pay your fees in installments or not.
+  
+</template>
+</category>
+
+<category>
+<pattern> Can we pay fees at KIET in installments for a Mtech/MCA/BPharma </pattern>
+<template>  <srai>Can we pay fees at KIET in installments for a BTech ? </srai></template>
+</category>
+
+<category>
+<pattern> What's the fees of Waiver seat?</pattern>
+<template>Bring a DD of Rs - 14591/-  </template>
+</category>
+
+<category>
+<pattern>What's the hostel fees?  </pattern>
+<template> Rs -94000/- </template>
+</category>
+
+<category>
+<pattern> Hostel fees </pattern>
+<template> <srai> What's the hostel fees? </srai> </template>
+</category>
+
+<category>
+<pattern>What's the bus charges for days scholars?  </pattern>
+<template>  
+From Meerut Rs- 24200 (Per Annum)
+From Ghaziabad Rs- 20000 (Per Annum)
+From Mohan Nagar Rs- 21500 (Per Annum)
+From Anand Vihar Rs- 23500 (Per Annum)
+From IndirapuramRs- 23500 (Per Annum)
+From Seemapuri Rs- 23500 (Per Annum)</template>
+</category>
+
+<category>
+<pattern> Bus charges </pattern>
+<template> <srai> What's the bus charges for days scholars? </srai> </template>
+</category>
+
+<category>
+<pattern>  fees details for schlorship?
+</pattern>
+<template> <system> https://www.kiet.edu/uploads/department/scholarship/2020-21/Fee%20Details%20for
+%20scholarship.pdf </system> </template>
+</category>
+
+<category>
+<pattern>  Scholarship Details</pattern>
+<template> <srai> fees details for schlorship?</srai> </template>
+</category>
+
+<category>
+<pattern> What's is documents required for scholarship? </pattern>
+<template> Affidavit of parents and students , Aadhaar card of your parents , ID card, Caste proof , ITR etc
+ </template>
+</category>
+
+</aiml>

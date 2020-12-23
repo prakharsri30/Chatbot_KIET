@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+<pattern>  How many clubs are there in KIET </pattern>
+<template>  40 </template>
+</category>
+
+<category>
+<pattern> number of clubs </pattern>
+<template> <srai> How many clubs are there in KIET </srai> </template>
+</category>
+
+<category>
+<pattern> What are the  different technical clubs in kiet  </pattern>
+<template> 
+TECHNICAL CLUBS  
+Google DSC
+Block Chain
+Electric Vehicle club
+Socio Tech Innovation Club
+Industrial Electronics and Control Club
+KIET IEEE SIGHT
+The Material and Metallurgy Testing Club
+ME DESIGN CLUB
+SAE INDIA COLLEGIATE CLUB OF KIET
+MARKETING CLUB-MARKETING MANEUVERS
+INNOGEEKS
+CIVEC
+SYS-MATIC
+Instronix
+Hobby Club
+E-Yantra
+Dinobots
+AAYUSHMAAN CLUB
+PHARMA INNOVATION CLUB
+TBI Incubation lab cum E-Cell
+ </template>
+</category>
+
+<category>
+<pattern> technical clubs </pattern>
+<template> <srai> What are the  different technical clubs in kiet  </srai> </template>
+</category>
+
+<category>
+<pattern> What are the  different non-technical clubs in kiet  </pattern>
+<template> 
+NON-TECHNICAL CLUBS 
+CREATIVE CELL 
+Dark Wings
+FC KIET
+Horizon College Magazine
+KIET- Kavyanjali
+KIET DANCE CLUB
+KIET Music Club
+KIET Movie Society
+Odyssey The Literary Society of KIET
+Quizzinga  The Quiz Club of KIET
+Spark Creations
+Spic Macay
+TEDxKIET
+Uddeshhya
+PRAGMATIC FASHION SOCIETY
+THE DOJO KARATE CLUB
+ </template>
+</category>
+
+<category>
+<pattern> non-technical clubs </pattern>
+<template> <srai> What are the  different non-technical clubs in kiet   </srai> </template>
+</category>
+
+
+<category>
+<pattern>  About DSC KIET </pattern>
+<template> 
+Developer Student Club  is a peer-to-peer student community of Google Developers. We are currently working on an initiative to concentrate the efforts of many developers in and around campus to learn, share and get productive using the various cutting-edge technologies. 
+Website URL 
+<system> www.dsckiet.tech </system>
+ </template>
+</category>
+
+<category>
+<pattern> Who is the Faculty coordinator of DSC KIET </pattern>
+<template>  Prof. Sanjiv Sharma</template>
+</category>
+
+<category>
+<pattern>  coorindator of dsc </pattern>
+<template> <srai> Who is the Faculty coordinator of DSC KIET   </srai> </template>
+</category>
+
+<category>
+<pattern> Team members of DSC KIET </pattern>
+<template> Aakash Goel, Ritwick Bhargav, Shubham Goswami, Aashi Sharma, Shreeyanshi Gupta, Revant Gupta, Rohan Mehta, Saurav Singh, Anshul Gupta, Aakanksha Shivani, Ritik Srivastav, Mayank Shakya, Shubham Singh </template>
+</category>
+
+<category>
+<pattern>  About Innogeeks Club</pattern>
+<template>  
+INNOGEEKS is an entirely student run society where in more focus is laid on peer learning and group learning, where in students are taught by the student mentors only. Currently it is the club with the highest number of students in our college. Students of the club participate in various national and international level events and bring laurels to the college </template>
+</category>
+
+<category>
+<pattern> Who is the faculty coordinator  of Innogeeks </pattern>
+<template>  Mr Dinesh Kumar</template>
+</category>
+
+<category>
+<pattern> coordinator of innogeeks </pattern>
+<template> <srai> Who is the faculty coordinator  of Innogeeks  </srai> </template>
+</category>
+
+<category>
+<pattern> Team Members of Innogeeks </pattern>
+<template> Pratishtha Tiwari, Harsh Rawat, Vikas Gautam, Saksham Saini, Harsh Kumar, Akash Bajpai, Madhur Jain, Shivam Singh, Ankit Kumar, Isha Bansal, Akansha Yadav, Anshika Verma </template>
+</category>
+
+<category>
+<pattern> About SAE KIET  </pattern>
+<template>  
+SAE INDIA COLLEGIATE CLUB of KIET was incepted in October, 2008. It provides a platform to students for learning and innovating real engineering skills and encourages them to participate in different CDS events. The club has brought many laurels to the institutions and students have won prizes worth Rs. 18 lacs till date. The club has also been awarded as the Best Collegiate Club in SAE Northern India Section. The club also has a strong alumni base working in leading automobile industries. At present the club has more than 150 active student members.
+</template>
+</category>
+
+<category>
+<pattern> Who is the faculty coordinator of SAE KIET  </pattern>
+<template>  Mr. Tuhin Srivastava, Mr. Ashish Kumar Singh </template>
+</category>
+
+<category>
+<pattern>  coordinator of SAE KIET </pattern>
+<template> <srai> Who is the faculty coordinator of SAE KIET </srai> </template>
+</category>
+
+<category>
+<pattern> Team Members of SAE KIET </pattern>
+<template> 
+Kamal Kishore Yadav, Abhimanyu Bhagat, AnkishGautam, Harshit Singh, Harsh vardhan Bansal, Nitish Gupta, SuryanshRathore, Aman Aggarwal, Amartya Saket, Anmol Gupta, Arushi Agarwal, Aryan Kumar, AtulVerma, GarimaBisht, Harshit Srivastava, Kshitij Singh, Malay Katiyar, Rishabh Jain , Saif Ali , ShivamTripathi, Sitesh Pandey, Somit Shivhare, AbhilashaSaxena, Varun Jain , Ayush Singh Dhangar, Md. Nematullah Mahmood, SakshiUpadhyay , Shrey Arora, SHATAKSHI DWIVEDI, ABHIMANYU BHAGAT, UTKARSH SHARMA, SUYASH YADAV, KeshavPratap Singh , Anupam Kumar Patel
+ </template>
+</category>
+
+<category>
+<pattern> About TBI Incubation lab cum E-Cell </pattern>
+<template> 
+<random>
+<li>This club seeks to enhance the entrepreneurial mind set by providing necessary guidance, motivation and assistance to the aspiring entrepreneurs. KIET e-Cell is purely a student body, run by a bunch of enthusiastic students, which aims to foster the entrepreneurship culture among the students, fans the innovative spark in them and supports them to transform their ideas into reality.</li>
+<li>KIET e-Cell has previously conducted successfully the three Techno Entrepreneurial fest Endeavour consecutive for straight three years i.e. in the year 2015, 2016, 2017.E-summit in 2018 is going to be the very first in the history of KIET.
+ACTIVITIES CONDUCTED:
+B PLAN
+ART OF CONQUEST
+YOUR STORY
+DROP OUT
+BID IT
+MAESTRO
+B NOESIS
+STARTUP CHALLENGE
+HACKATHON 
+</li>
+</random>
+ </template>
+</category>
+
+<category>
+<pattern> e-cell </pattern>
+<template> <srai> About TBI Incubation lab cum E-Cell </srai></template>
+</category>
+
+<category>
+<pattern> Who is the faculty coordinator of e-cell </pattern>
+<template> Mr. Awadhesh Kumar , Dr. Seema Maitrey   </template>
+</category>
+
+<category>
+<pattern> coordinator of e-cell  </pattern>
+<template> <srai> Who is the faculty coordinator of e-cell </srai> </template>
+</category>
+
+<category>
+<pattern> Team Members of e-cell</pattern>
+<template> PRASHANT GAUR, Rajat Babbar, Bhaskar Malviya </template>
+</category>
+
+<category>
+<pattern> About TEDxKIET </pattern>
+<template> 
+TEDx brings the spirit of TED mission of ideas worth spreading to local communities around the globe. With the same perception, TEDxKIET aims to bring forth the epic and inspiring journey of people who achieved the impossible by believing in themselves.
+</template>
+</category>
+
+<category>
+<pattern>  Who is the Faculty coordinator of TEDxKIET </pattern>
+<template> Dr. Adesh Kumar Pandey </template>
+</category>
+
+<category>
+<pattern>  coordinator of tedx </pattern>
+<template> <srai> who is the Faculty coordinator of TEDxKIET </srai> </template>
+</category>
+
+<category>
+<pattern> Team Members of TEDxKIET </pattern>
+<template> Anirudh Singh, Ayush Bharadwaj, Ria Gupta, Bhawna Chauhan, Charul Rathore, Priya Shukla, Aman Shrivastava, Vishesh Bajpai, Oshi Jain, Uttkarsh Shrivastava, Bhanu Pratap Rana, Saksham Agarwal, Harsh Kumar, Noman Khalid, Ritwick Bhargav </template>
+</category>
+
+</aiml>

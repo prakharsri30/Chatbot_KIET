@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+   
+   <category>
+      <pattern>ACADEMICS</pattern>
+    <template> Academics consists of Programmes, Academic Calendar, Syllabus, Open Electives, Ordinances, Academic Council, Dean Academics, Board of Studies and Library.
+Link: https://www.kiet.edu/OVERVIEW-Academics
+</template>
+    </category>      
+
+   <category>
+      <pattern>UNDERGRADUATE PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link
+     Link: https://www.kiet.edu/course
+ 
+</template>
+    </category>      
+
+   <category>
+      <pattern>UG PROGRAMMES</pattern>
+    <template> To know Different UG Programmes available follow the link
+     Link: https://www.kiet.edu/course 
+</template>
+    </category>
+
+   <category>
+      <pattern>POSTGRADUATE PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the link 
+
+    Link: https://www.kiet.edu/course
+    </template>
+    </category>      
+
+
+   <category>
+      <pattern>PG PROGRAMMES</pattern>
+    <template>To know Different PG Programmes available follow the link 
+
+    Link: https://www.kiet.edu/course
+    </template>
+    </category>      
+  
+   <category>
+      <pattern>SYLLABUS</pattern>
+    <template> The syllabi followed in KIET Group of Institutions is as per the reputed Dr. APJ Abdul Kalam Technical University, Lucknow. Affiliation with AKTU makes the syllabi of the various courses being taught in our institute at par with National Standards and conform to the AICTE guidelines. LINK: 
+  https://aktu.ac.in/syllabus.html 
+</template>
+    </category>
+      
+   <category>
+      <pattern>MEMBERS ACADEMIC COUNCIL</pattern>
+    <template> To know about the members of academic council follow the link
+ 
+Link: https://www.kiet.edu/academic-council
+
+</template>
+    </category>
+   
+<category>
+      <pattern>CENTRAL LIBRARY</pattern>
+    <template> Central Library
+Central Library has more than 1.6 lack books on Engineering, Sciences, Humanities, Management and Pharmacy with more than 10500 titles.
+Library has subscribed more than 206 Periodicals. 
+The library also has AKTU E-Consortium comprising E-Books, E-Journals, INVENTI.
+The library is an exclusive member of DELNET, IETE, IEI, CSI, ISTE, AIMA, CII etc.
+Library has separate facility of Book-Bank with more than one lac books.
+Under which books are issued to the students for entire semester from Book-Bank.
+In addition to this the Institute has 8 Departmental libraries for Reference purpose.
+The Library has the facility for accessing the date base of National Digital Library and NPTEL.
+ 
+ To know more please follow the link given below:
+
+<system>https://www.kiet.edu/central-library-overview</system>
+
+
+
+</template>
+    </category>  
+
+
+<category>
+<pattern>ACADEMIC CALENDAR BTech</pattern>
+<template> You can get the academic calendar for BTech from the link given below 
+https://www.kiet.edu/uploads/deanA/001_Academic%20Calendar%20Odd%20Sem%202020-21.pdf
+
+</template>
+</category>
+<category>
+<pattern>ACADEMIC CALENDAR MTECH</pattern>
+<template> You can get the academic calendar for MTECH from the link given below 
+https://www.kiet.edu/uploads/deanA/001_Academic%20Calendar%20Odd%20Sem%202020-21.pdf
+</template>
+</category>
+<category>
+<pattern>ACADEMIC CALENDAR MCA</pattern>
+<template> You can get the academic calendar for MCA from the link given below 
+https://www.kiet.edu/uploads/deanA/001_Academic%20Calendar%20Odd%20Sem%202020-21.pdf
+</template>
+</category>
+<category>
+<pattern>ACADEMIC CALENDAR MBA </pattern>
+<template> You can get the academic calendar FOR MBA  from the link given below 
+https://www.kiet.edu/uploads/deanA/001_Academic%20Calendar%20Odd%20Sem%202020-21.pdf
+
+</template>
+</category>
+<category>
+<pattern> AKTU SYLLABUS </pattern>
+<template> The syllabus followed in KIET Group of Institutions is as per the reputed Dr. APJ Abdul Kalam Technical University, Lucknow. Affiliation with AKTU makes the syllabus of the various courses being taught in our institute at par with National Standards and conform to the AICTE guidelines. The university keeps revising the syllabi of the various courses on a regular basis to create able professionals who can contribute towards the growth of the rapidly evolving corporate world.
+You can get the SYLLABUS OF COMBINED THEORIES from the link given below 
+https://aktu.ac.in/syllabus.html
+</template>
+</category>
+
+<category>
+<pattern>SYLLABUS FIRST YEAR </pattern>
+<template> You can get the SYLLABUS OF FIRST YEAR  from the link given below :
+https://aktu.ac.in/pdf/syllabus/syllabus2021/B.Tech.%20Ist%20Year%20AICTE%20Model%20Curriculum%202020-21_%2010th%20Dec%2020.pdf
+</template>
+</category>
+
+
+</aiml>

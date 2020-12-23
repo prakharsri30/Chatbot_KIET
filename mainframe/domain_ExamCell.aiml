@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	     
+	<category>
+		<pattern>UNIVERSITY TOPPER LIST</pattern>
+		<template>
+			<random>
+				<li>Please goto this link to get university topper's list : https://www.kiet.edu/university-toppers</li> 
+                		<li>Have a look over here to get university topper's list : https://www.kiet.edu/university-toppers</li>
+				<li>Click on this link to get university topper's list : https://www.kiet.edu/university-toppers</li>
+	        	</random>
+	  </template>
+	</category>
+	<category>
+		<pattern>EXAM PATTERN</pattern>
+		<template>
+			<random>
+                      <li>There will be two Class tests and Pre university Examinations mandatory for students link : https://www.kiet.edu/examinations</li>
+				<li>Have a look over here : https://www.kiet.edu/examinations</li>
+				<li>Click on this link : https://www.kiet.edu/examinations</li>
+		    </random>   
+	  </template>
+	</category>
+</aiml>
+	
+		

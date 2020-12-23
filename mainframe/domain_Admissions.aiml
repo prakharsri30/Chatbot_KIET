@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+
+	<category>
+      <pattern>UNDERTAKING</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the undertaking by Dean Admissions : 
+https://www.kiet.edu/anti-ragging </li>
+			<li>Please goto this link to view the undertaking by Dean Admissions : 
+https://www.kiet.edu/anti-ragging</li>
+			<li>Have a look over here to view the undertaking by Dean Admissions : 
+https://www.kiet.edu/anti-ragging</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern> ADMISSIONS PROCEDURE</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details of  Admissions procedure : 
+https://www.kiet.edu/admission-procedure</li>
+			<li>Please goto this link to view the details of Admissions procedure: 
+https://www.kiet.edu/admission-procedure</li>
+			<li>Have a look over here to view the details of  Admissions procedure:
+ https://www.kiet.edu/admission-procedure</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FIRST YEAR BTech ADMISSIONS Registration form</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the form: https://www.kiet.edu/admissions/admission.php</li>
+			<li>Please goto this link to view the form: https://www.kiet.edu/admissions/admission.php</li>
+			<li>Have a look over here to view the form : https://www.kiet.edu/admissions/admission.php</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>FEE STRUCTURE FIRST YEAR </pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure : https://www.kiet.edu/fee-structure-for-new-students </li>
+			<li>Please goto this link to view the fee structure https://www.kiet.edu/fee-structure-for-new-students</li>
+			<li>Have a look over here to view the fee structure for First Year : https://www.kiet.edu/fee-structure-for-new-students</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION NOTIFICATION</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the admission notifications : https://www.kiet.edu/admission-notices</li>
+			<li>Please goto this link to view the admission notifications : https://www.kiet.edu/admission-notices</li>
+			<li>Have a look over here to view the admission notifications https://www.kiet.edu/admission-notices </li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>RESEARCH DEVRLOPMENT CELL</pattern>
+      <template>
+		<random>
+			<li>Rapid growth in scientific knowledge is an indication of the quest for discovery and has a substantial impact on economic and societal development. Science, technology and innovation are often initiated in an Institutions research environment. Research and developmental activities create and disseminate new knowledge in different fields, promotes innovation and motivates better learning and teaching among faculty members and students of our Institute as these are often incorporated in the courses. Research is the foundation of knowledge that brings new energy, builds state of the art facilities, promotes research publications, develops collaborations and becomes a part of an active community that shares common objectives. Moreover, there is good evidence that research supports and improves teaching, helps to build excellence in this dimension as well. Research can have salutary effects on faculty members, on the nature of their teaching, and on the undergraduate and postgraduate students.</li>
+                <li>Click on this link to view the details regarding research Cell: https://www.kiet.edu/overview-research</li>
+			<li>Please goto this link to view the details regarding research Cell : https://www.kiet.edu/overview-research</li>
+			<li>Have a look over here to view the details regarding research Cell : https://www.kiet.edu/overview-research</li>
+		</random>
+	  </template>
+    </category>
+	</aiml>
+	
+	
+	
+	
